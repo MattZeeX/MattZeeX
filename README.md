@@ -1,9 +1,11 @@
-Systems-focused developer with experience using code and data to analyze, model, and optimize complex systems.
+Backend-focused developer building practical software with C#, ASP.NET Core, Python, and Lua.
 
-I primarily work in Lua, with experience in Python and foundational knowledge of Java.
+I like building software that takes messy information and turns it into useful systems, and as such I've spent years maintaining long-term gaming and data-focused projects where reliability, automation, and maintainability matter.
 
-Many of my projects focus on analyzing game systems and involve building tools and data models to explore and evaluate tradeoffs, optimize performance, and improve decision-making through structured, data-driven approaches.
+Recently I built [PatientFollowUpTracker](https://github.com/MattZeeX/PatientFollowUpTracker), a healthcare-themed ASP.NET Core Web API for mock patient follow-up workflows. The project gave me experience designing APIs, working with persistence and testing, building CI workflows, and thinking carefully about how software should behave around sensitive data.
 
-I like working with systems where behavior emerges from configuration, rules, and interactions between components, and I’m particularly interested in and enjoy optimization problems, resource allocation, and designing solutions that improve long-term efficiency and outcomes.
+I've also been developing and maintaining [GreatVaultOdds](https://github.com/MattZeeX/GreatVaultOdds), a World of Warcraft project focused on transforming raw data into useful decision-making tools. Along the way I built release pipelines, debugging workflows, and a structured development process centered around iteration and long-term maintainability.
 
-Currently I am working on [GreatVaultOdds](https://github.com/MattZeeX/GreatVaultOdds), a World of Warcraft addon that assists in loot maximization - so you always have the best chance at getting the loot you want!
+I hold Microsoft Azure Fundamentals and Azure AI Fundamentals certifications and continue learning across backend development, cloud technologies, AI/ML concepts, and software design.
+
+Outside of work, I enjoy understanding how systems work and finding ways to make complicated problems feel simpler. I also spend time following addon and software development communities, participating in technical discussions, contributing feedback and improvements where I can, and learning from open-source projects and the communities built around them.
